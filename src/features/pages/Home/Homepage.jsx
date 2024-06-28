@@ -13,7 +13,7 @@ export default function Homepage() {
         className="text-3xl sm:text-6xl text-center font-bold"
         data-aos="fade-in"
       >
-        WELCOME TO AC-IT
+        WELCOME TO MoH
       </h1>
       <h2
         className="text-lg sm:text-lg text-center text-gray-200 w-[90%] sm:w-full"
