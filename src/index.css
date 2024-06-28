@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  transition: all 0.5s ease-in-out;
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  @apply inline-block text-black text-lg hover:text-gray-600 dark:text-white dark:hover:text-neutral-300;
+}
+* {
+  transition: all 0.5;
+}
